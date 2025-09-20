@@ -131,7 +131,6 @@ This step confirmed that even newly added users and devices inherit the same bas
 | Group Policy Objects (GPOs)      | Applying domain-wide policies and baselines        |
 | Windows Server (DC)              | Domain Controller setup and administration         |
 | PowerShell                       | Used for user management and password resets       |
-| Event Viewer                     | Log inspection and troubleshooting                 |
 | Organizational Units (OUs)       | Logical structuring of AD objects                  |
 
 <br>
@@ -141,7 +140,6 @@ This step confirmed that even newly added users and devices inherit the same bas
 | Identity & Access Management  | Managing users, groups, and permissions        |
 | Policy Enforcement            | Enforcing security baselines via GPOs          |
 | Account Delegation            | Delegating control for IT support              |
-| Log Monitoring                | Using Event Viewer to track AD activity        |
 | Network Administration        | Understanding AD structure and domain objects  |
 
 ---
