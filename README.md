@@ -140,7 +140,7 @@ This step confirmed that even newly added users and devices inherit the same bas
 | Identity & Access Management  | Managing users, groups, and permissions        |
 | Policy Enforcement            | Enforcing security baselines via GPOs          |
 | Account Delegation            | Delegating control for IT support              |
-| Network Administration        | Understanding AD structure and domain objects  |
+| IT Administration             | Understanding AD structure and domain objects  |
 
 ---
 
