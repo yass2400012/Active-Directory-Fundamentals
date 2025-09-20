@@ -1,5 +1,5 @@
+![User Creation](Images/active-directory_0.jpg)
 # Active Directory administration, security, and IAM Lab (TryHackMe Lab)
-
 This project documents my hands-on work in **TryHackMe Cyber Security 101** and **Windows & Active Directory Fundamentals** labs.  
 The focus was on learning how to configure and manage **Active Directory (AD DS)**, apply **Group Policy Objects (GPOs)**, manage **users, machines, groups, and OUs**, and simulate real-world IT administration tasks in a Windows domain environment.  
 
